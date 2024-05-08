@@ -1,0 +1,1227 @@
+fileFormatVersion: 2
+guid: dc300937da35f834391a5fe431ada3b3
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NicePng_fruit-tree-png_690709_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 745
+        width: 163
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235ed9d7a32ef8d4eb63d1452e173895
+      internalID: -205014252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_fruit-tree-png_690709_1
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 745
+        width: 158
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5cf6320de50ee74b86b1209f62b8bf5
+      internalID: -1442291269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_fruit-tree-png_690709_2
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 745
+        width: 176
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e884b03a842005b41a3cf0a9f9d0e222
+      internalID: 337793796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_fruit-tree-png_690709_3
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 745
+        width: 184
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b5263ae13a6c644bec6f4aad741202
+      internalID: 1644842508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_fruit-tree-png_690709_4
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 745
+        width: 186
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21eb4eb64fe40174faccd5ca4da16681
+      internalID: 796836417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_fruit-tree-png_690709_5
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 745
+        width: 189
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a525c7043221d0541972bb9c2406c531
+      internalID: -1056182338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_fruit-tree-png_690709_6
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 745
+        width: 191
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92acb054fc213f42b8deb63f5f6332f
+      internalID: 460759389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_fruit-tree-png_690709_7
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 745
+        width: 191
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b10e3ae1a900b4eb67571eeedaf0a1
+      internalID: 1010078903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_fruit-tree-png_690709_8
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 745
+        width: 188
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22bf5dd6ba027914288dd5282c4e7695
+      internalID: -1514624495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_fruit-tree-png_690709_9
+      rect:
+        serializedVersion: 2
+        x: 2434
+        y: 745
+        width: 189
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b55c5d9c8b4c93469e0edca2277adb2
+      internalID: 1008307464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_fruit-tree-png_690709_10
+      rect:
+        serializedVersion: 2
+        x: 2705
+        y: 745
+        width: 188
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c75b817a1479cc4e922d005131c6783
+      internalID: -1271088004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_fruit-tree-png_690709_11
+      rect:
+        serializedVersion: 2
+        x: 2976
+        y: 745
+        width: 189
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2222e8df290ba2846bf9f5ad3da9fcdc
+      internalID: 1146429301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_fruit-tree-png_690709_12
+      rect:
+        serializedVersion: 2
+        x: 3254
+        y: 745
+        width: 180
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98dde7072dedd194c8dfcd397c5352fc
+      internalID: 325458252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_fruit-tree-png_690709_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 497
+        width: 184
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27238c615d914e9468bab5a972d9db26
+      internalID: 824741430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_fruit-tree-png_690709_14
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 497
+        width: 183
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a974746c69a9284c96f21ab4eabf740
+      internalID: -1092147839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_fruit-tree-png_690709_15
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 497
+        width: 182
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e88ab8957e6ab408af727447c78de1
+      internalID: 1526073498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_fruit-tree-png_690709_16
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 497
+        width: 183
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2712bb02fb3b484eb2f69285e6410d6
+      internalID: 1786043571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_fruit-tree-png_690709_17
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 497
+        width: 182
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e24b7403430be44b96e0a2ab9e32cb
+      internalID: -1120883824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_fruit-tree-png_690709_18
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 497
+        width: 182
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ec745b8175a61439eb43971a58134b
+      internalID: -920199236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_fruit-tree-png_690709_19
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 497
+        width: 183
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eca4477405960747a96ebef6af08324
+      internalID: 422704025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_fruit-tree-png_690709_20
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 497
+        width: 182
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2b270173dfbf6449443f110a516eb2
+      internalID: 511462810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_fruit-tree-png_690709_21
+      rect:
+        serializedVersion: 2
+        x: 2169
+        y: 497
+        width: 183
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c766a5e3cd087447a4fb0a50cb0c1d7
+      internalID: 1184017687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_fruit-tree-png_690709_22
+      rect:
+        serializedVersion: 2
+        x: 2441
+        y: 497
+        width: 182
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1124be1c5f38254d93d50ef7c8d22eb
+      internalID: 1971892149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_fruit-tree-png_690709_23
+      rect:
+        serializedVersion: 2
+        x: 2711
+        y: 497
+        width: 182
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847dda7826d75694f8f9cd079e747a43
+      internalID: -582866176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_fruit-tree-png_690709_24
+      rect:
+        serializedVersion: 2
+        x: 2982
+        y: 497
+        width: 183
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7fefb50e484be4eb79bd92c5f7f62f
+      internalID: -1692227954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_fruit-tree-png_690709_25
+      rect:
+        serializedVersion: 2
+        x: 3254
+        y: 497
+        width: 180
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5a1c8191f9d1445b268d9ee7ce6f72
+      internalID: -1703635674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_fruit-tree-png_690709_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 180
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ac8bd2f9dbf8d49b151b0805fdad59
+      internalID: -1515371523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_fruit-tree-png_690709_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 247
+        width: 184
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a9fed524db12f45bd1a0234ec1d7b9
+      internalID: 1917337762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_fruit-tree-png_690709_28
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 0
+        width: 181
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d450e3937b394d4419512391b5ec848b
+      internalID: 2102491440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_fruit-tree-png_690709_29
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 247
+        width: 183
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e526e9eb586a1d48a900af3eebb7a96
+      internalID: 812538224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_fruit-tree-png_690709_30
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 0
+        width: 182
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4dc03439af7e04b85f72acfe17c660
+      internalID: -725013332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_fruit-tree-png_690709_31
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 247
+        width: 179
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc16a0b512d8b748ad79bb11f95d681
+      internalID: -1481255048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_fruit-tree-png_690709_32
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 0
+        width: 181
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5154b18727de32942908e66c06110741
+      internalID: 635036273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_fruit-tree-png_690709_33
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 247
+        width: 180
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc79051d984f8e4588dc431d5e1b8f7
+      internalID: -232174321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_fruit-tree-png_690709_34
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 0
+        width: 182
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98276c3f26d3a14299787b4b3ab1fcf
+      internalID: 352771201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_fruit-tree-png_690709_35
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 247
+        width: 179
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6227d9b95b9d5524d80a770e28af1f92
+      internalID: -284202264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_fruit-tree-png_690709_36
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 0
+        width: 182
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2483fdb52a4313d4898c684fd8fc113a
+      internalID: -1104769651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_fruit-tree-png_690709_37
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 247
+        width: 179
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3fac3a432b9c3a45b9e8d46983b56a2
+      internalID: -1482313304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_fruit-tree-png_690709_38
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 0
+        width: 181
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee73c539644e56344ae00454e957f7d5
+      internalID: 1196735674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_fruit-tree-png_690709_39
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 247
+        width: 179
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9a0bdf3f8ff7e41b0fa9edd0361e81
+      internalID: -176007864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_fruit-tree-png_690709_40
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 0
+        width: 182
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070d672a86e05d34c939b508eedc7434
+      internalID: 436655354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_fruit-tree-png_690709_41
+      rect:
+        serializedVersion: 2
+        x: 1901
+        y: 247
+        width: 179
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f19cd6a1bc73854aa8e2c8cf8595141
+      internalID: 625296945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_fruit-tree-png_690709_42
+      rect:
+        serializedVersion: 2
+        x: 2167
+        y: 0
+        width: 181
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb62f0fd7b971944d900b7fee5769394
+      internalID: -1939652060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_fruit-tree-png_690709_43
+      rect:
+        serializedVersion: 2
+        x: 2172
+        y: 247
+        width: 180
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5996b5d49a7c4894ca0624801aa7b646
+      internalID: -1006404411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_fruit-tree-png_690709_44
+      rect:
+        serializedVersion: 2
+        x: 2439
+        y: 0
+        width: 181
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc3d4f765bd3ed4e970d0a780201fd4
+      internalID: 473714175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_fruit-tree-png_690709_45
+      rect:
+        serializedVersion: 2
+        x: 2443
+        y: 247
+        width: 180
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68111f12ca4e5fc41b972caabe611986
+      internalID: -1252158300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_fruit-tree-png_690709_46
+      rect:
+        serializedVersion: 2
+        x: 2709
+        y: 0
+        width: 182
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40119dd3b0c1236478b18e8e44773e25
+      internalID: 1338746080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_fruit-tree-png_690709_47
+      rect:
+        serializedVersion: 2
+        x: 2714
+        y: 247
+        width: 179
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed241cc414cc304384bb0a1a6ea052b
+      internalID: -1415705084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_fruit-tree-png_690709_48
+      rect:
+        serializedVersion: 2
+        x: 2985
+        y: 247
+        width: 180
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb103cddc8295b41bbbbcbb04867ffc
+      internalID: 2137194610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_fruit-tree-png_690709_49
+      rect:
+        serializedVersion: 2
+        x: 3256
+        y: 95
+        width: 178
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd45f9436ec86ed4b80b3668559ef3d8
+      internalID: -2101333331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      NicePng_fruit-tree-png_690709_0: -205014252
+      NicePng_fruit-tree-png_690709_1: -1442291269
+      NicePng_fruit-tree-png_690709_10: -1271088004
+      NicePng_fruit-tree-png_690709_11: 1146429301
+      NicePng_fruit-tree-png_690709_12: 325458252
+      NicePng_fruit-tree-png_690709_13: 824741430
+      NicePng_fruit-tree-png_690709_14: -1092147839
+      NicePng_fruit-tree-png_690709_15: 1526073498
+      NicePng_fruit-tree-png_690709_16: 1786043571
+      NicePng_fruit-tree-png_690709_17: -1120883824
+      NicePng_fruit-tree-png_690709_18: -920199236
+      NicePng_fruit-tree-png_690709_19: 422704025
+      NicePng_fruit-tree-png_690709_2: 337793796
+      NicePng_fruit-tree-png_690709_20: 511462810
+      NicePng_fruit-tree-png_690709_21: 1184017687
+      NicePng_fruit-tree-png_690709_22: 1971892149
+      NicePng_fruit-tree-png_690709_23: -582866176
+      NicePng_fruit-tree-png_690709_24: -1692227954
+      NicePng_fruit-tree-png_690709_25: -1703635674
+      NicePng_fruit-tree-png_690709_26: -1515371523
+      NicePng_fruit-tree-png_690709_27: 1917337762
+      NicePng_fruit-tree-png_690709_28: 2102491440
+      NicePng_fruit-tree-png_690709_29: 812538224
+      NicePng_fruit-tree-png_690709_3: 1644842508
+      NicePng_fruit-tree-png_690709_30: -725013332
+      NicePng_fruit-tree-png_690709_31: -1481255048
+      NicePng_fruit-tree-png_690709_32: 635036273
+      NicePng_fruit-tree-png_690709_33: -232174321
+      NicePng_fruit-tree-png_690709_34: 352771201
+      NicePng_fruit-tree-png_690709_35: -284202264
+      NicePng_fruit-tree-png_690709_36: -1104769651
+      NicePng_fruit-tree-png_690709_37: -1482313304
+      NicePng_fruit-tree-png_690709_38: 1196735674
+      NicePng_fruit-tree-png_690709_39: -176007864
+      NicePng_fruit-tree-png_690709_4: 796836417
+      NicePng_fruit-tree-png_690709_40: 436655354
+      NicePng_fruit-tree-png_690709_41: 625296945
+      NicePng_fruit-tree-png_690709_42: -1939652060
+      NicePng_fruit-tree-png_690709_43: -1006404411
+      NicePng_fruit-tree-png_690709_44: 473714175
+      NicePng_fruit-tree-png_690709_45: -1252158300
+      NicePng_fruit-tree-png_690709_46: 1338746080
+      NicePng_fruit-tree-png_690709_47: -1415705084
+      NicePng_fruit-tree-png_690709_48: 2137194610
+      NicePng_fruit-tree-png_690709_49: -2101333331
+      NicePng_fruit-tree-png_690709_5: -1056182338
+      NicePng_fruit-tree-png_690709_6: 460759389
+      NicePng_fruit-tree-png_690709_7: 1010078903
+      NicePng_fruit-tree-png_690709_8: -1514624495
+      NicePng_fruit-tree-png_690709_9: 1008307464
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
